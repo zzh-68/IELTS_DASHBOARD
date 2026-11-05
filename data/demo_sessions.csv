@@ -1,0 +1,21 @@
+session_id,learner_id,date,skill,task_type,score_source,is_demo,score,duration_minutes,notes,coherence_cohesion,fluency_coherence,grammar,lexical_resource,pronunciation,task_response
+DEMO-001,demo_learner,2026-10-01,Writing,Task 2,simulated_practice,true,5.5,40,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",5.5,,5.0,6,,6
+DEMO-002,demo_learner,2026-10-02,Speaking,Full practice,simulated_practice,true,5.5,15,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,5.5,5.5,6,6.5,
+DEMO-003,demo_learner,2026-10-03,Listening,Timed set,simulated_practice,true,6,30,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,,,,,
+DEMO-004,demo_learner,2026-10-04,Reading,Timed set,simulated_practice,true,6,60,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,,,,,
+DEMO-005,demo_learner,2026-10-05,Writing,Task 2,simulated_practice,true,6,40,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",5.5,,5.0,6,,6
+DEMO-006,demo_learner,2026-10-06,Speaking,Full practice,simulated_practice,true,6,15,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,5.5,5.5,6,6.5,
+DEMO-007,demo_learner,2026-10-07,Listening,Timed set,simulated_practice,true,6.5,30,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,,,,,
+DEMO-008,demo_learner,2026-10-08,Reading,Timed set,simulated_practice,true,6.5,60,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,,,,,
+DEMO-009,demo_learner,2026-10-09,Writing,Task 2,simulated_practice,true,6,40,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",6.0,,5.0,6,,6
+DEMO-010,demo_learner,2026-10-10,Speaking,Full practice,simulated_practice,true,6,15,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,6.0,5.5,6,6.5,
+DEMO-011,demo_learner,2026-10-11,Listening,Timed set,simulated_practice,true,6,30,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,,,,,
+DEMO-012,demo_learner,2026-10-12,Reading,Timed set,simulated_practice,true,6,60,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,,,,,
+DEMO-013,demo_learner,2026-10-13,Writing,Task 2,simulated_practice,true,6.5,40,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",6.0,,5.5,6,,6
+DEMO-014,demo_learner,2026-10-14,Speaking,Full practice,simulated_practice,true,6.5,15,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,6.0,5.5,6,6.5,
+DEMO-015,demo_learner,2026-10-15,Listening,Timed set,simulated_practice,true,7,30,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,,,,,
+DEMO-016,demo_learner,2026-10-16,Reading,Timed set,simulated_practice,true,7,60,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,,,,,
+DEMO-017,demo_learner,2026-10-17,Writing,Task 2,simulated_practice,true,6,40,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",6.0,,5.5,6,,6
+DEMO-018,demo_learner,2026-10-18,Speaking,Full practice,simulated_practice,true,6,15,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,6.0,5.5,6,6.5,
+DEMO-019,demo_learner,2026-10-19,Listening,Timed set,simulated_practice,true,6.5,30,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,,,,,
+DEMO-020,demo_learner,2026-10-20,Reading,Timed set,simulated_practice,true,6.5,60,"DEMO: synthetic illustration; no real learner, teacher assessment or official result.",,,,,,
